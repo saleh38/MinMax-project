@@ -17,7 +17,7 @@ A desktop Tic-Tac-Toe game built with Python and Tkinter, featuring an unbeatabl
 ## How to Run
 
 ```bash
-python xo.py
+python MinMax.py
 ```
 
 ## How to Play
