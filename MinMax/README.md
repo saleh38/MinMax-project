@@ -1,4 +1,4 @@
-# XO — Tic-Tac-Toe with Minimax AI
+#  — Tic-Tac-Toe with Minimax AI
 
 A desktop Tic-Tac-Toe game built with Python and Tkinter, featuring an unbeatable AI opponent powered by the Minimax algorithm.
 
